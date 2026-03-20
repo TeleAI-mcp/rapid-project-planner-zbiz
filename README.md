@@ -1,2 +1,3 @@
-# rapid-project-planner-zbiz
-Automated issue comment bot repository
+# Rapid Project Planner Zbiz
+
+Automated issue comment bot repository.
